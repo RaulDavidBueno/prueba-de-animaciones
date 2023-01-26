@@ -59,6 +59,7 @@
     width: 249px;
     height: 49px;
     border-radius: 10px;
+    transition: 0.5s;
 }
 
 .cuadro4 input:focus{
